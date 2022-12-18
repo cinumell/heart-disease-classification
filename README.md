@@ -13,7 +13,8 @@ Problem Definition In a statement,
 Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 ## Dataset
-Data The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
-There is also a version of it available on Kaggle. https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
+* Data The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
+* There is also a version of it available on Kaggle. https://www.kaggle.com/datasets/sumaiyatasmeem/heart-disease-classification-dataset
 
-Evaluation If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project
+## Evaluation 
+If we can reach 95% accuracy at predicting whether or not a patient has heart disease during the proof of concept, we'll pursue the project
