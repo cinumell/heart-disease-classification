@@ -9,8 +9,8 @@ We're going to take the following approach:
 * Features 
 * Modelling 
 * Experimentation
-Problem Definition In a statement,
-Given clinical parameters about a patient, can we predict whether or not they have heart disease?
+
+In a statement, Given clinical parameters about a patient, can we predict whether or not they have heart disease?
 
 ## Dataset
 * Data The original data came from the Cleavland data from the UCI Machine Learning Repository. https://archive.ics.uci.edu/ml/datasets/heart+Disease
